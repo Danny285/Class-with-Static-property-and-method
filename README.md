@@ -1,0 +1,1 @@
+# Class-with-Static-property-and-method
